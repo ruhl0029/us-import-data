@@ -11,6 +11,12 @@ These files are from the Census Bureau CDs, which were accessed from the Wiscons
 
 The files `imp_detl.dbf` contain the data in the 1990-2008 discs. The fixed-width files `imp_detl.txt` contain the data and `imp_detl.str` contain the layout in the 2009-2012 discs.
 
+These files are too large to post and required some effort to get set up. I have aggregated the data to the 
+
+```Year-Month-HS10-Country``` 
+
+level to make them comparable to the 2013- files. If you would like to access the more dissagregated data, you could find the CDs at the library. 
+
 ### 2013-
 These files were downloaded from the Census Bureau API. The unit of observation is
 
