@@ -15,7 +15,7 @@ These files are too large to post and required some effort to get set up. I have
 
 ```Year-Month-HS10-Country``` 
 
-level to make them comparable to the 2013- files. If you would like to access the more dissagregated data, you could find the CDs at the library. 
+level to make them comparable to the 2013- files. If you would like to access the more disaggregated data, you could find the CDs at the library. 
 
 ### 2013-
 These files were downloaded from the Census Bureau API. The unit of observation is
