@@ -1,6 +1,6 @@
 # Monthly U.S. Import Data
 
-This repo contains monthly U.S. imports at the HS 10 level. 
+This repo contains monthly U.S. imports at the HS 10 level by country. 
 
 The file `data benchmarks.ipynb` compare the aggregate data from this dataset to the aggregates posted by Census at https://www.census.gov/foreign-trade/balance/c0015.html. From 2015--onward the two are virtually identical. Pre-2013 the differences are mostly small, with the exception of March 1990. I need to look into that month. 
 
