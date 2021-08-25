@@ -1,5 +1,7 @@
 # Monthly U.S. Import Data
 
+**Currently (8/2021) missing: 2003-04, 2010-06, 2012-05** These CDs were corrupted or missing at the library. I'm working on tracking them down.
+
 This repo contains monthly U.S. imports at the HS 10 level by country. 
 
 The file `data benchmarks.ipynb` compare the aggregate data from this dataset to the aggregates posted by Census at https://www.census.gov/foreign-trade/balance/c0015.html. From 2015--onward the two are virtually identical. Pre-2013 the differences are mostly small, with the exception of March 1990. I need to look into that month. 
